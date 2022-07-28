@@ -1,0 +1,14 @@
+/Users/crack/workspace/sonar/src/test/java/org/sonar/samples/java/checks/AvoidAnnotationRuleTest.java
+/Users/crack/workspace/sonar/src/test/java/org/sonar/samples/java/MyJavaFileCheckRegistrarTest.java
+/Users/crack/workspace/sonar/src/test/java/org/sonar/samples/java/checks/AvoidTreeListRuleTest.java
+/Users/crack/workspace/sonar/src/test/java/org/sonar/samples/java/MyJavaRulesDefinitionTest.java
+/Users/crack/workspace/sonar/src/test/java/org/sonar/samples/java/checks/AvoidMethodDeclarationRuleTest.java
+/Users/crack/workspace/sonar/src/test/java/org/sonar/samples/java/checks/NoIfStatementInTestsRuleTest.java
+/Users/crack/workspace/sonar/src/test/java/org/sonar/samples/java/checks/AvoidSuperClassRuleTest.java
+/Users/crack/workspace/sonar/src/test/java/org/sonar/samples/java/checks/MyCustomSubscriptionRuleTest.java
+/Users/crack/workspace/sonar/src/test/java/org/sonar/samples/java/utils/FilesUtils.java
+/Users/crack/workspace/sonar/src/test/java/org/sonar/samples/java/checks/SpringControllerRequestMappingEntityRuleTest.java
+/Users/crack/workspace/sonar/src/test/java/org/sonar/samples/java/checks/AvoidBrandInMethodNamesRuleTest.java
+/Users/crack/workspace/sonar/src/test/java/org/sonar/samples/java/MyJavaRulesPluginTest.java
+/Users/crack/workspace/sonar/src/test/java/org/sonar/samples/java/utils/StringUtilsTest.java
+/Users/crack/workspace/sonar/src/test/java/org/sonar/samples/java/checks/SecurityAnnotationMandatoryRuleTest.java

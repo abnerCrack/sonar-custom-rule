@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.sonarsource.sslr:sslr-core:1.24.0.633">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/sonarsource/sslr/sslr-core/1.24.0.633/sslr-core-1.24.0.633.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/sonarsource/sslr/sslr-core/1.24.0.633/sslr-core-1.24.0.633-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/sonarsource/sslr/sslr-core/1.24.0.633/sslr-core-1.24.0.633-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

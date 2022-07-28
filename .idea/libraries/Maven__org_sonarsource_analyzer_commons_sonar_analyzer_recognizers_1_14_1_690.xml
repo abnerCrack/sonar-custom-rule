@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.sonarsource.analyzer-commons:sonar-analyzer-recognizers:1.14.1.690">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/sonarsource/analyzer-commons/sonar-analyzer-recognizers/1.14.1.690/sonar-analyzer-recognizers-1.14.1.690.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/sonarsource/analyzer-commons/sonar-analyzer-recognizers/1.14.1.690/sonar-analyzer-recognizers-1.14.1.690-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/sonarsource/analyzer-commons/sonar-analyzer-recognizers/1.14.1.690/sonar-analyzer-recognizers-1.14.1.690-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

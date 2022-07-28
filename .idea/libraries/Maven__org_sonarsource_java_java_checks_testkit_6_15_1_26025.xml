@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.sonarsource.java:java-checks-testkit:6.15.1.26025">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/sonarsource/java/java-checks-testkit/6.15.1.26025/java-checks-testkit-6.15.1.26025.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/sonarsource/java/java-checks-testkit/6.15.1.26025/java-checks-testkit-6.15.1.26025-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/sonarsource/java/java-checks-testkit/6.15.1.26025/java-checks-testkit-6.15.1.26025-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
